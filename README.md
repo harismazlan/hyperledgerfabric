@@ -1,5 +1,5 @@
 # hyperledgerfabric
-Hyperledger Fabric Certification Assessment
+Hyperledger Fabric Developer Certification Training - Assessment
 
 A technical assessment to the Hyperledger Fabric Certification eligibility.
 
